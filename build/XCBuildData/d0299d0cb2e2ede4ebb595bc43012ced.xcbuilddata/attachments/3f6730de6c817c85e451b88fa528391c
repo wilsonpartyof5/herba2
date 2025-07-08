@@ -1,0 +1,35 @@
+{
+  "" : {
+    "const-values" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.swiftconstvalues",
+    "dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.d",
+    "diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/FirebaseDatabase-master.swiftdeps"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/DataSnapshot+ReadDecodable.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DataSnapshot+ReadDecodable.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/DatabaseReference+WriteEncodable.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/DatabaseReference+WriteEncodable.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/EncoderDecoder.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/EncoderDecoder.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/Codable/ServerTimestamp.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/ServerTimestamp.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Swift/Sources/SPMSwiftHeaderWorkaround.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseDatabase.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.o"
+  }
+}

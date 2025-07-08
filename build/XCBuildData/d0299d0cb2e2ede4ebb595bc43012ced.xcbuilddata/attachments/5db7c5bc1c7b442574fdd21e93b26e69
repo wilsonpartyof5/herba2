@@ -1,0 +1,4 @@
+module GoogleUtilities_MethodSwizzler {
+umbrella "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public"
+export *
+}

@@ -1,0 +1,195 @@
+{
+  "" : {
+    "const-values" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2-master.swiftconstvalues",
+    "dependencies" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2-master.d",
+    "diagnostics" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2-master.swiftdeps"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/App/Herba2App.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2App.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2App.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2App.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Config/APIConfig.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/APIConfig.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/APIConfig.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/APIConfig.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Models/AIHerbalistError.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistError.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistError.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistError.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Models/ChatMessage.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ChatMessage.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ChatMessage.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ChatMessage.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Models/CommunityModels.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityModels.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityModels.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityModels.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Models/CommunityPost.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityPost.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityPost.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityPost.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Models/HerbalRemedy.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/HerbalRemedy.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/HerbalRemedy.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/HerbalRemedy.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Models/Profile.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Profile.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Profile.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Profile.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Models/User.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/User.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/User.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/User.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Services/AIHerbalistChatService.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistChatService.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistChatService.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistChatService.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Services/AIHerbalistService.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistService.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistService.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistService.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Services/AIService.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIService.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIService.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIService.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Services/CommunityService.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityService.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityService.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityService.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Services/CoreDataManager.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CoreDataManager.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CoreDataManager.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CoreDataManager.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Services/FirebaseService.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/FirebaseService.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/FirebaseService.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/FirebaseService.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Services/OpenAIService.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/OpenAIService.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/OpenAIService.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/OpenAIService.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Services/RAGService.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/RAGService.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/RAGService.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/RAGService.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Theme/AppTheme.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AppTheme.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AppTheme.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AppTheme.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/ViewModels/AIHerbalistChatViewModel.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistChatViewModel.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistChatViewModel.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistChatViewModel.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/ViewModels/AIHerbalistViewModel.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistViewModel.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistViewModel.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistViewModel.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/ViewModels/CommunityViewModel.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityViewModel.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityViewModel.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityViewModel.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/AIHerbalistChatView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistChatView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistChatView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistChatView.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/Authentication/AuthenticationView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AuthenticationView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AuthenticationView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AuthenticationView.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/Chat/AIHerbalistView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/AIHerbalistView.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/Chat/ChatView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ChatView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ChatView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ChatView.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/Community/CommentsView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommentsView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommentsView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommentsView.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/Community/CommunityView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CommunityView.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/Community/NewPostView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/NewPostView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/NewPostView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/NewPostView.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/ContentView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/Profile/ProfileFormView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ProfileFormView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ProfileFormView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ProfileFormView.o"
+  },
+  "/Users/mac/Desktop/Herba2/Herba2/Views/Profile/ProfileView.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/ProfileView.o"
+  },
+  "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/DerivedSources/CoreDataGenerated/Herba2/CDChatMessage+CoreDataClass.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDChatMessage+CoreDataClass.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDChatMessage+CoreDataClass.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDChatMessage+CoreDataClass.o"
+  },
+  "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/DerivedSources/CoreDataGenerated/Herba2/CDChatMessage+CoreDataProperties.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDChatMessage+CoreDataProperties.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDChatMessage+CoreDataProperties.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDChatMessage+CoreDataProperties.o"
+  },
+  "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/DerivedSources/CoreDataGenerated/Herba2/CDProfile+CoreDataClass.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDProfile+CoreDataClass.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDProfile+CoreDataClass.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDProfile+CoreDataClass.o"
+  },
+  "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/DerivedSources/CoreDataGenerated/Herba2/CDProfile+CoreDataProperties.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDProfile+CoreDataProperties.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDProfile+CoreDataProperties.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/CDProfile+CoreDataProperties.o"
+  },
+  "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/DerivedSources/CoreDataGenerated/Herba2/Herba2+CoreDataModel.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2+CoreDataModel.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2+CoreDataModel.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/Herba2+CoreDataModel.o"
+  },
+  "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mac/Desktop/Herba2/build/Herba2.build/Release-iphoneos/Herba2.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

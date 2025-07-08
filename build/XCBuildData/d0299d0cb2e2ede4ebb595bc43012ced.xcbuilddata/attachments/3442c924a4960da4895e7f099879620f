@@ -1,0 +1,4 @@
+module grpcppWrapper {
+umbrella "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/grpc-binary/grpcpp-Wrapper/include"
+export *
+}

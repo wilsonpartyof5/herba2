@@ -1,0 +1,4 @@
+module GTMSessionFetcherCore {
+umbrella "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/gtm-session-fetcher/Sources/Core/Public"
+export *
+}

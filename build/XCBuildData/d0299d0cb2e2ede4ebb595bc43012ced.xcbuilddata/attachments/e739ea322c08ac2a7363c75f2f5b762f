@@ -1,0 +1,75 @@
+{
+  "" : {
+    "const-values" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.swiftconstvalues",
+    "dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.d",
+    "diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FirebaseMLModelDownloader-master.swiftdeps"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/CustomModel.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/CustomModel.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/CustomModel.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/CustomModel.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/DeviceLogger.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DeviceLogger.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DeviceLogger.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DeviceLogger.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/DownloaderUserDefaults.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DownloaderUserDefaults.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DownloaderUserDefaults.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/DownloaderUserDefaults.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/FileDownloader.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FileDownloader.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FileDownloader.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/FileDownloader.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/LocalModelInfo.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/LocalModelInfo.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/LocalModelInfo.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/LocalModelInfo.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelDownloadConditions.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadConditions.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadConditions.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadConditions.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelDownloadTask.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadTask.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadTask.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloadTask.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelDownloader.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloader.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloader.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelDownloader.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelFileManager.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelFileManager.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelFileManager.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelFileManager.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/ModelInfoRetriever.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelInfoRetriever.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelInfoRetriever.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/ModelInfoRetriever.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/RemoteModelInfo.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/RemoteModelInfo.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/RemoteModelInfo.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/RemoteModelInfo.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/TelemetryLogger.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/TelemetryLogger.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/TelemetryLogger.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/TelemetryLogger.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseMLModelDownloader/Sources/proto/firebase_ml_log_sdk.pb.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/firebase_ml_log_sdk.pb.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/firebase_ml_log_sdk.pb.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseMLModelDownloader.build/Objects-normal/arm64/firebase_ml_log_sdk.pb.o"
+  }
+}

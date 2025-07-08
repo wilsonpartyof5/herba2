@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master.swiftconstvalues",
+    "dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master.d",
+    "diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/FirebaseFunctionsCombineSwift-master.swiftdeps"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Functions/Functions+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/Functions+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/Functions+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/Functions+Combine.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Functions/HTTPSCallable+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/HTTPSCallable+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/HTTPSCallable+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseFunctionsCombineSwift.build/Objects-normal/arm64/HTTPSCallable+Combine.o"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "" : {
+    "const-values" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master.swiftconstvalues",
+    "dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master.d",
+    "diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfig-master.swiftdeps"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/Codable.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/Codable.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/Codable.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/Codable.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/CustomSignals.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/CustomSignals.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/CustomSignals.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/CustomSignals.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/FirebaseRemoteConfigValueDecoderHelper.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoderHelper.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoderHelper.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoderHelper.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/PropertyWrapper/RemoteConfigProperty.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/RemoteConfigProperty.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/RemoteConfigProperty.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/RemoteConfigProperty.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/PropertyWrapper/RemoteConfigValueObservable.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/RemoteConfigValueObservable.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/RemoteConfigValueObservable.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/RemoteConfigValueObservable.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/SPMSwiftHeaderWorkaround.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/SPMSwiftHeaderWorkaround.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseRemoteConfig/Swift/Value.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/Value.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/Value.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/Value.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseRemoteConfig.build/Objects-normal/arm64/resource_bundle_accessor.o"
+  }
+}

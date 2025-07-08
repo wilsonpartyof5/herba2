@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master.swiftconstvalues",
+    "dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master.d",
+    "diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/FirebaseStorageCombineSwift-master.swiftdeps"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Storage/Storage+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/Storage+Combine.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Storage/StorageReference+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseStorageCombineSwift.build/Objects-normal/arm64/StorageReference+Combine.o"
+  }
+}

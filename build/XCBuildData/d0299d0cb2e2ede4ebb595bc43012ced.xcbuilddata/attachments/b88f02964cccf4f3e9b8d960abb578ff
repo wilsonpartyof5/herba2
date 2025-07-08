@@ -1,0 +1,45 @@
+{
+  "" : {
+    "const-values" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/FirebaseAuthCombineSwift-master.swiftconstvalues",
+    "dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/FirebaseAuthCombineSwift-master.d",
+    "diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/FirebaseAuthCombineSwift-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/FirebaseAuthCombineSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/FirebaseAuthCombineSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/FirebaseAuthCombineSwift-master.swiftdeps"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Auth/Auth+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/Auth+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/Auth+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/Auth+Combine.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Auth/GameCenterAuthProvider+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/GameCenterAuthProvider+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/GameCenterAuthProvider+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/GameCenterAuthProvider+Combine.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Auth/MultiFactor+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/MultiFactor+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/MultiFactor+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/MultiFactor+Combine.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Auth/MultiFactorResolver+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/MultiFactorResolver+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/MultiFactorResolver+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/MultiFactorResolver+Combine.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Auth/OAuthProvider+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/OAuthProvider+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/OAuthProvider+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/OAuthProvider+Combine.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Auth/PhoneAuthProvider+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/PhoneAuthProvider+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/PhoneAuthProvider+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/PhoneAuthProvider+Combine.o"
+  },
+  "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCombineSwift/Sources/Auth/User+Combine.swift" : {
+    "index-unit-output-path" : "/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/User+Combine.o",
+    "llvm-bc" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/User+Combine.bc",
+    "object" : "/Users/mac/Library/Developer/Xcode/DerivedData/Herba2-bpkaeflrrivxphercferbfonyitl/SourcePackages/checkouts/firebase-ios-sdk/build/Firebase.build/Release-iphoneos/FirebaseAuthCombineSwift.build/Objects-normal/arm64/User+Combine.o"
+  }
+}

@@ -1,0 +1,1 @@
+JSON_PATH = 'Herba2/Resources/herbal_knowledge_enhanced.json' 
